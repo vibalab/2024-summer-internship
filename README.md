@@ -4,8 +4,7 @@
 
 - **날짜**: 07.24
 - **시간**: 13:30
-- **연구실**: Visualization and Business Analytics Lab, Seoul National University
-- **담당자**: Hyunwoo Park
+- **총괄담당자**: 김지홍
 
 ## 인턴 기간 및 인원
 
