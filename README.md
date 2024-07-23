@@ -13,7 +13,7 @@
 - **총 인원**: 인턴 1명, CSR 3명
 - **연구실 구성원**: 박사 6명, 석사 13명
 - **연구 분야**: Visualization, GNN, Business Analytics
-- **홈페이지**: [ViBA Lab](vibalab.org)
+- **홈페이지**: [ViBA Lab](https://vibalab.org)
 
 ## 주요 작업
 
