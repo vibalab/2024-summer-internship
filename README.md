@@ -1,14 +1,9 @@
 # 2024-summer-internship
 
----
-title: "2024 여름방학 랩 인턴 Kickoff Meeting"
-output: pdf_document
----
-
-# 2024 여름방학 랩 인턴 Kickoff Meeting
+## 2024 여름방학 랩 인턴 Kickoff Meeting
 
 - **날짜**: 07.24
-- **시간**: 14:00
+- **시간**: 13:30
 - **연구실**: Visualization and Business Analytics Lab, Seoul National University
 - **담당자**: Hyunwoo Park
 
@@ -18,7 +13,7 @@ output: pdf_document
 - **총 인원**: 인턴 1명, CSR 3명
 - **연구실 구성원**: 박사 6명, 석사 13명
 - **연구 분야**: Visualization, GNN, Business Analytics
-- **홈페이지**: [SNU VIBA](https://www.snuviba.com)
+- **홈페이지**: [SNU VIBA](https://vibalab.org)
 
 ## 주요 작업
 
@@ -42,7 +37,7 @@ output: pdf_document
 
 ## 발표 일정
 
-- **발표자**: 정민서, 이승정, 김찬우, 김주영, 김유진, 성진규, 성주용
+- **발표자**: 정민서, 이승정, 김유진, 성주용
 - **날짜 및 논문**:
   - 07.24: Deepwalk (정민서), Metapath2Vec (이승정)
   - 07.31: GCN (김찬우)
@@ -51,7 +46,7 @@ output: pdf_document
   - 08.21: GIN (성주용)
 - **시간**: 13:00 - 14:00
 - **장소**: 942동 308호
-- **발표 형식**: 논문 1편당 30분 (20-25분 발표, 5분 Q&A)
+- **발표 형식**: 논문 1편당 30분 (20-25분 발표, 5-10분 Q&A)
 
 ## Toy Project 일정
 
